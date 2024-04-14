@@ -1,0 +1,11 @@
+Model Information:
+* title:	1/32 Car Chassis + Differential + MacPherson
+* source:	https://sketchfab.com/3d-models/132-car-chassis-differential-macpherson-c6bade2e370745988fe5db7aec43c52d
+* author:	thehlab (https://sketchfab.com/thehlab)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1/32 Car Chassis + Differential + MacPherson" (https://sketchfab.com/3d-models/132-car-chassis-differential-macpherson-c6bade2e370745988fe5db7aec43c52d) by thehlab (https://sketchfab.com/thehlab) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
